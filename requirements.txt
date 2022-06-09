@@ -1,0 +1,9 @@
+dbus-python==1.2.16
+distlib==0.3.4
+distro-info==1.0
+filelock==3.7.1
+platformdirs==2.5.2
+python-apt==2.2.1
+six==1.16.0
+unattended-upgrades==0.1
+virtualenv==20.14.1
